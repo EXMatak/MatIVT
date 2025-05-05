@@ -1,6 +1,6 @@
-# Maturita 2024
+# Maturita 2025
 
-Výpisky k maturitě 2024
+Výpisky k maturitě 2025
 
 - [Matematika](./Matematika/README.md)
 - [IVT](./IVT/README.md)
